@@ -15,13 +15,13 @@
 
 -  Friday Osadiayi
 
--  Opt-Out
+
 
 ## 4. - Financial Secretary: 
 
 -  Sunny Osagie EHIOROBO
 
--  Opt-Out
+
 
 ## 5. - Treasurer: 
 
@@ -33,10 +33,8 @@
 
 -  Patricia Mbulu
 
--  Opt-Out
-
 ## 7. - PRO:
 
 -  Eric Iyirhiaro
 
--  Opt-Out
+
