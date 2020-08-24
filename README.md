@@ -7,36 +7,36 @@
 
 ## 2. - Vice-President: 
 
-. Mrs. Osatohamwen Obakpolor Sule
+-  Mrs. Osatohamwen Obakpolor Sule
 
-. Lugard Edokpayi
+-  Lugard Edokpayi
 
 ## 3. - Secretary: 
 
-.  Friday Osadiayi
+-  Friday Osadiayi
 
-.  Opt-Out
+-  Opt-Out
 
 ## 4. - Financial Secretary: 
 
-Answer 1: Sunny Osagie EHIOROBO
+-  Sunny Osagie EHIOROBO
 
-Answer 2: Opt-Out
+-  Opt-Out
 
 ## 5. - Treasurer: 
 
-Answer 1: Dr. Mrs. Ellen Osifo Agho
+-  Dr. Mrs. Ellen Osifo Agho
 
-Answer 2: Lucky Obasuyi
+-  Lucky Obasuyi
 
 ## 6. - Assistant Secretary: 
 
-Answer 1: Patricia Mbulu
+-  Patricia Mbulu
 
-Answer 2: Opt-Out
+-  Opt-Out
 
 ## 7. - PRO:
 
-Answer 1: Eric Iyirhiaro
+-  Eric Iyirhiaro
 
-Answer 2: Opt-Out
+-  Opt-Out
