@@ -1,4 +1,3 @@
-# Source_code
 # UCOSA-General Election
 ## 1. - President ( Single Choice)
 
