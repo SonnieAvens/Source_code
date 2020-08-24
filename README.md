@@ -1,21 +1,21 @@
 # UCOSA-General Election
 ## 1. - President:
 
-. -  Sonnie Osaro Avenbuan
+.  Sonnie Osaro Avenbuan
 
-. -  Eric Iyirhiaro
+.  Eric Iyirhiaro
 
 ## 2. - Vice-President: 
 
-1: Mrs. Osatohamwen Obakpolor Sule
+. Mrs. Osatohamwen Obakpolor Sule
 
-2: Lugard Edokpayi
+. Lugard Edokpayi
 
 ## 3. - Secretary: 
 
-Answer 1: Friday Osadiayi
+.  Friday Osadiayi
 
-Answer 2: Opt-Out
+.  Opt-Out
 
 ## 4. - Financial Secretary: 
 
