@@ -1,23 +1,23 @@
 # UCOSA-General Election
-## 1. - President ( Single Choice)
+## 1. - President:
 
 . -  Sonnie Osaro Avenbuan
 
 . -  Eric Iyirhiaro
 
-2. - Vice-President: ( Single Choice)
+## 2. - Vice-President: 
 
 Answer 1: Mrs. Osatohamwen Obakpolor Sule
 
 Answer 2: Lugard Edokpayi
 
-3. Secretary: ( Single Choice)
+## 3. - Secretary: 
 
 Answer 1: Friday Osadiayi
 
 Answer 2: Opt-Out
 
-4. - Financial Secretary: ( Single Choice)
+## 4. - Financial Secretary: 
 
 Answer 1: Sunny Osagie EHIOROBO
 
