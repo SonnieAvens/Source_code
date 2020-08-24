@@ -1,9 +1,9 @@
 # UCOSA-General Election
 ## 1. - President ( Single Choice)
 
-### 1 Sonnie Osaro Avenbuan
+- 1 Sonnie Osaro Avenbuan
 
-### 2. Eric Iyirhiaro
+- 2. Eric Iyirhiaro
 
 2. - Vice-President: ( Single Choice)
 
